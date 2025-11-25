@@ -9,7 +9,8 @@ public class App {
     public static int calculer() {
         return 5 + 3;  // ✅ Cette méthode peut return
     }
-}*/
+}
+*/
 
 package com.demo;
 
@@ -25,3 +26,4 @@ public class App {
         return 5 + 3;
     }
 }
+
